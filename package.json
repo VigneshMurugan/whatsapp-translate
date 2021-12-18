@@ -1,0 +1,17 @@
+{
+  "name": "twilio-pnr",
+  "version": "0.1.0",
+  "description": "Twilio App to check PNR status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vignesh Murugan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "twilio": "^3.72.0"
+  }
+}
